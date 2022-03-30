@@ -1,0 +1,45 @@
+.image_bg {
+
+background-image: url("background.jpg");
+background-position: center;
+background-size: cover;
+}
+
+img{
+    width: 200px;
+    border-radius: 50px;
+}
+
+.speed{
+    float: left;
+}
+
+.volume{
+    float: right;
+}
+
+.heading{
+    background-color: blueviolet;
+    color: black;
+    font-size: 30px;
+    font-family: cursive;
+    margin-top: 0px;
+    width: 100%;
+}
+
+.note{
+    font-size: 17px;
+    background-color: white;
+    color: maroon;
+    padding: 10px;
+    padding-left: 50px;
+    padding-right: 100px;
+
+   
+}
+
+canvas{
+    background-color: aliceblue;
+    border-radius: 50px;
+    border: 5px solid purple;
+}
